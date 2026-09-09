@@ -103,4 +103,3 @@ total:
 ---
 
 ---
-{"id":190803111,"author":{"login":"shobrook","id":18684735,"node_id":"MDQ6VXNlcjE4Njg0NzM1","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOIlE4084LX2yn","tag_name":"v0.1.0","target_commitish":"master","name":"wut \u2013 v0.1.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2024-12-13T23:01:24Z","updated_at":"2024-12-15T06:21:00Z","published_at":"2024-12-15T06:21:00Z","assets":[{"id":213443307,"node_id":"RA_kwDOIlE4084MuOLr","name":"wut.tar.gz","label":null,"uploader":{"login":"shobrook","id":18684735,"node_id":"MDQ6VXNlcjE4Njg0NzM1","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/x-gzip","state":"uploaded","size":1682954,"digest":null,"download_count":77,"created_at":"2024-12-15T06:20:52Z","updated_at":"2024-12-15T06:20:53Z"}],"body":""}
