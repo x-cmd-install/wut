@@ -34,22 +34,22 @@ Total: **366** lines of code across **7** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,425 · **Forks**: 84 · **Open issues**: 21 · **Contributors**: 3
+- **Stars**: 1,425 · **Forks**: 85 · **Open issues**: 21 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 3 · **Open PRs**: 6 · **Closed issues**: 9 · **Open issues**: 12 · **Commits**: 41
+- **Releases**: 1 · **Merged PRs**: 3 · **Open PRs**: 7 · **Closed issues**: 9 · **Open issues**: 12 · **Commits**: 41
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-29 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-10-31 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last720d | 2024-11-05 | 1 | 3 | 6 | 5 | 12 | 28 |
+| 30d | 2026-09-27 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-08-28 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-07-29 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-04-30 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 360d | 2025-11-01 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last720d | 2024-11-06 | 1 | 3 | 7 | 5 | 12 | 28 |
 
 ## Release assets
 
@@ -66,4 +66,4 @@ Install metadata for wut lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T06:05:38Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T06:30:31Z._
